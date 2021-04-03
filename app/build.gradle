@@ -40,4 +40,5 @@ dependencies {
     //Google Map
     implementation 'com.google.android.gms:play-services-maps:17.0.0'
     implementation 'com.google.android.gms:play-services-location:18.0.0'
+    implementation 'com.karumi:dexter:6.2.1'
 }
